@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 10.0.1
+Implementation-Title: cloud2start-sso
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lpc.cloud2
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cloud2start/cloud2start-sso
+Created-By: Maven Integration for Eclipse
+
